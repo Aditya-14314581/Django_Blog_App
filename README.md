@@ -2,6 +2,12 @@
 
 ## Screenshots
 
+![image](https://github.com/Aditya-14314581/Django_Blog_App/assets/122261389/5b183f8a-bec9-4ca9-a6af-63955ebdaad3)
+
+![image](https://github.com/Aditya-14314581/Django_Blog_App/assets/122261389/181b0932-aab7-4567-a82f-8ba42911c41b)
+
+![image](https://github.com/Aditya-14314581/Django_Blog_App/assets/122261389/4587325d-cce1-4e38-9c3c-5984135a2894)
+
 
 
 This is a full-fledged Django blog application that incorporates various functionalities, including user authentication, login and logout features, secure user registration, pagination for efficient navigation, and more. The app allows authenticated users to create, publish, update, and delete blog posts, as well as comment on blog posts.
